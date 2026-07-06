@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 # Hi there, I'm Tejasv Rathore! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F1F7F6&width=435&lines=Web+Developer+%7C+AI+Enthusiast;ML+Learning+Aspirant;Passionate+about+Data+and+AI;Exploring+Tech+%7C+Programmer+" alt="Typing SVG" />
+  <img src="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1A56DB&width=500&lines=AI+%2F+ML+Engineer;LangChain+%7C+RAG+%7C+FastAPI+%7C+Docker;3+Deployed+AI+Projects;Open+to+Internships)](https://github.com/Tejasv1910) />
 </p>
 
 ## 🔥 About Me
