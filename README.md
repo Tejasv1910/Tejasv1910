@@ -107,13 +107,6 @@ Here are some ideas to get you started:
 [![Tejasv's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tejasv1910&theme=github-dark)](https://github.com/Tejasv1910)
 
 
-
-
-### 🔤 Language Proficiency
-- **Python**
-- **SQL**
-- **C++/Devlopement**
-
 ---
 
 ## 📂 Featured Projects
