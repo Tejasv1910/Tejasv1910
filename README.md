@@ -72,23 +72,25 @@ Here are some ideas to get you started:
 </p>
 
 ## 🔥 About Me
-🎓 **B.Tech in Computer Science and Engineering** (2023 - 2027) at **Samrat Ashok Technological Institute,Vidisha**  
-📊 Hi, i m a Computer Science Engineering student and aspiring **Software Developer** with hands-on experience in **Full Stack Web Development** and **Python-based Data Science**. I’ve completed internships where I worked on real-world projects using the **MERN stack**, API integrations, and dashboard-based systems. I enjoy building clean, user-focused applications, learning new technologies, and continuously improving my problem-solving skills. Currently, I’m focused on strengthening my development fundamentals and creating projects that showcase my growth as a developer.
-
-💡 Love working with **Neural Networks , Python, SQL, C++ , and Development**
+🎓 B.Tech in Computer Science (2023–2027) at Samrat Ashok Technological Institute, Vidisha  
+🤖 Specializing in **Machine Learning, NLP, and Generative AI**  
+🚀 Built and deployed 3 production-grade AI projects  
+💼 6-month AI/ML internship at Annova Solutions, Indore  
+📫 Reach me: tejasvrathore8@gmail.com
 
 ---
 
 ## 🚀 Skills & Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Full Stack Web Development](https://img.shields.io/badge/Full_Stack_Web_Development-9A4C95?style=for-the-badge&logo=r&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
 ---
@@ -115,21 +117,23 @@ Here are some ideas to get you started:
 ---
 
 ## 📂 Featured Projects
-💡 *Check out some of my real-world analytics projects!*
+### 🔹 [Customer Churn Prediction System](https://github.com/Tejasv1910/customer-churn-prediction)
+End-to-end ML pipeline using Scikit-Learn, XGBoost, FastAPI, and Docker.  
+**ROC-AUC: 0.842 | Recall: 78.3%** | 🔗 [Live API](https://churn-api-gke0.onrender.com/docs)
 
-🔹 **[Converse](https://github.com/Tejasv1910/converse)**  
-Real-time full stack chat application built using MERN stack with Socket.IO for live messaging and secure backend APIs.
+### 🔹 [AI-Powered Document Chatbot (RAG)](https://github.com/Tejasv1910/rag-document-chatbot)
+Fully local RAG pipeline using LangChain, FAISS, Ollama, llama3.2, FastAPI, Docker.  
+Zero API cost | Hallucination-free answers | 100% local
+
+### 🔹 [NLP Sentiment Analysis System](https://github.com/Tejasv1910/twitter-sentiment-analysis)
+TF-IDF + LinearSVC on real Twitter data.  
+**Accuracy: 98.5% | F1: 0.9855** | 🔗 [Live App](https://twitter-sentiment-analysis-ep2oyeyp9seebrk3dt9pcd.streamlit.app)
 
 
 ---
 
 ## 📜 Certifications
-- Fundamentals of Statistics
-- Python Programming
-- Data Analysis with Python
-- Exploratory Data Analysis using Python
-- FullStack Web Development
-- Cloud Computing using Oracle Virtual Box
+- Complete Machine Learning, NLP Bootcamp & MLOps Deployment — Udemy (Krish Naik)
 
 
 
